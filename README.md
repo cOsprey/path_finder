@@ -1,2 +1,3 @@
-# Cloud Anchors 
-You will no need to add Firebase .json file test the app
+# Path Finder
+Android app for indoor navigation using augmented reality.
+Works using recalling stored anchors manually.
